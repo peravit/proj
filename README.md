@@ -1,2 +1,2 @@
 # proj
-Academic and some personal projects.
+Academic and personal projects.
